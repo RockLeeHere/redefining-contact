@@ -15,9 +15,9 @@
        {
         //    $to = "admin@onlineittuts.com";
            $to = "devi_ug@cse.nits.ac.in";
-           $headers = "From: devip17072000@gmail.com";
+//            $headers = "From: devip17072000@gmail.com";
 
-           if(mail($to,$Subject,$Msg,$Email, $headers))
+           if(mail($to,$Subject,$Msg,$Email))
            {
                header("location:index.php?success");
            }
