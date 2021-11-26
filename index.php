@@ -10,6 +10,7 @@
     <title>Contact Us Form In Php</title>
 </head>
 <body>
+    <h2> To verify the occuring changes </h2> <br>
     <div class="container">
         <div class="row">
             <div class="col-lg-6 m-auto">
